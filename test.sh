@@ -2,5 +2,6 @@
 
 echo "Hello world"
 sleep 2
-read -p Everything worked? input
 echo Oh ! ok ... 
+sleep 2
+echo "is it working now?"
