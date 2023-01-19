@@ -1,4 +1,4 @@
-public class Variables{
+public class Test{
     public static void main(String[] args) { 
         int sum = Add(200, 222); 
         System.out.println("The Sum is: "+ sum);
